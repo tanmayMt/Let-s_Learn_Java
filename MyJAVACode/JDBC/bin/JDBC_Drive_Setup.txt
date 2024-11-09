@@ -1,0 +1,15 @@
+1.Add Environment Vriable
+2.Add classpath  C:\Program Files\Java\jdk-21\mysql-connector-j-9.0.0.jar;.;
+
+
+C:\Users\Tanmoy>javap com.mysql.jdbc.Driver
+Compiled from "Driver.java"
+public class com.mysql.jdbc.Driver extends com.mysql.cj.jdbc.Driver {
+  public com.mysql.jdbc.Driver() throws java.sql.SQLException;
+  static {};
+}
+
+C:\Users\Tanmoy>
+
+
+
